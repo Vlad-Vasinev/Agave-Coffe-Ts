@@ -7,4 +7,4 @@
 ## This project is using:
 - html: for creating html-layout 💡
 - css: for stylization html-elements 💡
-- js: for adding interactive elements, animations and user-friendly components 💡
+- typescript: for adding interactive elements, animations and user-friendly components 💡
