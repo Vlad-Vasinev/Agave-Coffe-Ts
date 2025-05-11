@@ -8,3 +8,9 @@
 - html: for creating html-layout 💡
 - css: for stylization html-elements 💡
 - typescript: for adding interactive elements, animations and user-friendly components 💡
+
+## Pages:
+- index.html: https://agave-ts.vercel.app/
+- catalog.html: https://agave-ts.vercel.app/catalog.html
+- product.html: https://agave-ts.vercel.app/product.html
+- ui-page.html: https://agave-ts.vercel.app/ui-page.html
